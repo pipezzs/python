@@ -4,9 +4,9 @@ En Python la indentación se utiliza para definir bloques de código, son saltos
 
 ```python
 if x > 5:
-	print ("x es mayor que 5)
+	print ("x es mayor que 5")
 else:
-	print ("x es menor o igual que 5)
+	print ("x es menor o igual que 5")
 ```
 
 Es importante comprender este concepto para evitar futuros errores.
@@ -44,4 +44,13 @@ El primer paso para programar es hacer un "Hello World" y en el caso de Python s
 
 ```python
 print ("Hello World!")
+```
+
+### INPUT
+
+Cuando necesitamos proporcionar un valor durante la ejecución del programa, podemos emplear la función `input()`. Esta función permite que el usuario interactúe con el programa, ingresando datos que se pueden asignar a variables, lo que puede influir en el flujo del programa.
+
+```python
+nombre = input("Ingresa tú nombre")
+print("Bienvenido " + nombre)
 ```
