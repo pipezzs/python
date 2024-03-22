@@ -1,6 +1,6 @@
 ### INDENTACIÓN
 
-En Python la indentación se utiliza para definir bloques de código, son saltos de linea en los cuales se encapsula el código.
+En Python la indentación se utiliza para definir bloques de código, son saltos de linea en los cuales se encapsula el código. 
 
 ```python
 if x > 5:
@@ -15,7 +15,7 @@ Es importante comprender este concepto para evitar futuros errores.
 
 Los comentarios son pedazos de texto que no influyen en el código, son utilizados para señalizar, anotar y explicar funcionalidades de código, tambien puedes usarlos para desactivar alguna parte del código que no te interesa ejecutar.
 
-**Comentarios cortos:
+**Comentarios cortos:**
 
 ```python
 print ("Bienvenido!") #Esto es un comentario simple :3

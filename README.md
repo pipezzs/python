@@ -1,4 +1,4 @@
-**_SINTAXIS BASICA_**
+**_SINTAXIS BASICA_** 
 
 - Indentación
 - Comentarios
@@ -10,7 +10,7 @@
 - Int
 - Float
 - String
-- Booleanos
+- Booleanos 
 
 **_ESTRUCTURAS DE CONTROL_**
 

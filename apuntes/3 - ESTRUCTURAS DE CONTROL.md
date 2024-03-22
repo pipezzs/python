@@ -1,4 +1,4 @@
-Las estructuras de control nos permiten controlar el flujo la ejecución, son muy importantes tanto en Python como en cualquier lenguaje de programación.
+Las estructuras de control nos permiten controlar el flujo la ejecución, son muy importantes tanto en Python como en cualquier lenguaje de programación. 
 ### BUCLE IF-ELSE
 
 Esta estructura nos permite ejecutar acciones según las condiciones que se cumplan o no.
